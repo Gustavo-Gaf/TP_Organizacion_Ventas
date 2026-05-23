@@ -1,0 +1,51 @@
+Producto;CantidadVendida;Precio;FechaVenta
+Monitor Dell 27;12;320;2026-05-20
+Sony WH-1000XM4;14;280;2026-05-20
+Disco Externo WD 2TB;14;85;2026-11-18
+Auriculares Bose;2;120;2026-01-30
+Ratón Ergonómico Razer;19;70;2026-03-10
+Monitor Dell 27;16;320;2026-11-02
+Monitor Dell 27;1;320;2026-01-15
+Disco Externo WD 2TB;5;85;2026-03-25
+Auriculares Bose;7;120;2026-01-15
+Sony WH-1000XM4;4;280;2026-08-12
+Monitor Dell 27;11;320;2026-05-05
+Disco Externo WD 2TB;3;85;2026-01-15
+Monitor Dell 27;5;320;2026-03-25
+Monitor Dell 27;6;320;2026-03-25
+Monitor Dell 27;1;320;2026-01-15
+Auriculares Bose;18;120;2026-11-02
+Cargador Anker GaN;19;45;2026-01-15
+Disco Externo WD 2TB;20;85;2026-01-15
+Monitor Dell 27;20;320;2026-11-18
+Apple AirPods Pro;12;250;2026-11-02
+Disco Externo WD 2TB;18;85;2026-11-18
+Sony WH-1000XM4;17;280;2026-11-02
+Apple AirPods Pro;12;250;2026-05-20
+Sony WH-1000XM4;12;280;2026-11-02
+Disco Externo WD 2TB;11;85;2026-03-10
+Disco Externo WD 2TB;3;85;2026-05-05
+Disco Externo WD 2TB;1;85;2026-01-30
+Cargador Anker GaN;4;45;2026-01-30
+Cargador Anker GaN;15;45;2026-01-30
+Monitor Dell 27;17;320;2026-08-12
+Teclado Mecánico Logitech;13;90;2026-11-02
+Sony WH-1000XM4;17;280;2026-11-02
+Teclado Mecánico Logitech;14;90;2026-05-05
+Sony WH-1000XM4;6;280;2026-08-12
+Auriculares Bose;13;120;2026-11-18
+Cargador Anker GaN;4;45;2026-08-12
+Monitor Dell 27;18;320;2026-11-18
+Auriculares Bose;17;120;2026-11-18
+Sony WH-1000XM4;7;280;2026-11-18
+Disco Externo WD 2TB;20;85;2026-08-28
+Ratón Ergonómico Razer;12;70;2026-11-02
+Disco Externo WD 2TB;4;85;2026-05-20
+Sony WH-1000XM4;1;280;2026-11-18
+Cargador Anker GaN;13;45;2026-03-10
+Disco Externo WD 2TB;14;85;2026-08-28
+Cargador Anker GaN;6;45;2026-08-28
+Apple AirPods Pro;11;250;2026-08-12
+Sony WH-1000XM4;3;280;2026-05-05
+Sony WH-1000XM4;5;280;2026-05-20
+Auriculares Bose;15;120;2026-11-18
