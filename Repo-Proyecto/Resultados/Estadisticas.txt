@@ -1,0 +1,14 @@
+--- REPORTE DE VENTAS ---
+Producto más vendido: Disco Externo WD 2TB (113 unidades)
+
+Mes        | Ventas (Filas)  | Productos Totales 
+--------------------------------------------------
+2026-01    | 10              | 73                
+2026-03    | 6               | 59                
+2026-05    | 9               | 78                
+2026-08    | 8               | 82                
+2026-11    | 17              | 240               
+
+Total de productos vendidos: 532
+El gráfico se ha guardado con éxito en:
+/content/TP_Organizacion_Ventas/Repo-Proyecto/Resultados/graficoVentas.png
