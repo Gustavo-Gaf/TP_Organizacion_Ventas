@@ -3,9 +3,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-ruta_archivo = r"C:\Users\Guguisino\OneDrive\Escritorio\Trabajo Practico - Ventas\TP_Organizacion_Ventas\Repo-Proyecto\Datos\Ventas.txt"
+ruta_archivo = r"/content/TP_Organizacion_Ventas/Repo-Proyecto/Datos/Ventas.txt"
 # Nueva ruta para guardar el gráfico PNG
-ruta_grafico = r"C:\Users\Guguisino\OneDrive\Escritorio\Trabajo Practico - Ventas\TP_Organizacion_Ventas\Repo-Proyecto\Resultados\graficoVentas.png"
+ruta_grafico = r"/content/TP_Organizacion_Ventas/Repo-Proyecto/Resultados/graficoVentas.png"
 
 lista_ventas = []
 cantidades_por_producto = {}
